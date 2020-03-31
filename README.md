@@ -1,2 +1,1 @@
-# Car-Express
-Basically it is a localhost website which I had created for learning HTML and CSS  during my training.
+A website which runs on local server and deals with a platform where anyone can book his/her car and data is added in backend by php.
