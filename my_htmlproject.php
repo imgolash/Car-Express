@@ -22,7 +22,7 @@ if(!empty($fname) || !empty($lname) ||  !empty($gender) || !empty($email)  || !e
 		$INSERT="INSERT INTO det(firstname,lastname,Email,Gender,Password,c_password) values('$fname','$lname','$email','$gender','$password','$c_password')";
 
 		if($conn->query($INSERT)){
-		echo "New record is inserted successfully CONGO!!! from Himanshu Golash.This site is hacked.";
+		echo "New record is inserted successfully inserted from Himanshu Golash-(DBA).This site is hacked.";
 		}
 		else{
 		echo "Error: ".$INSERT."
